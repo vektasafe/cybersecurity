@@ -1,6 +1,6 @@
 # Cybersecurity
 
-Security research covering Web2 attack vectors on Web3 infrastructure, infrastructure hardening, and related topics. Part of the Vektasafe security portfolio at github.com/vektasafe-dev.
+Security research covering Web2 attack vectors on Web3 infrastructure, infrastructure hardening, and related topics. Part of the Vektasafe security portfolio at github.com/vektasafe.
 
 ---
 
