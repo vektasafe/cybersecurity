@@ -1,1 +1,11 @@
-picoctf/cheat-sheet-bundle/
+# macOS
+.DS_Store
+__MACOSX/
+*._.DS_Store
+
+# Downloads and bundles
+*.zip
+*.tar.gz
+
+# PDFs (unless intentionally added)
+*.pdf
